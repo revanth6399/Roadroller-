@@ -1,0 +1,2 @@
+# Roadroller-
+SIMULATION OF ROAD ROLLER is a Computer Graphics application .The application is developed using OpenGL(Open Graphics Library) on Windows, which is the standard specification defining a cross-language API for writing applications that produce 2D and 3D computer Graphics , The Four main areas of cg i.e. display of information ,design,simulation &amp; animation and user interfaces are attempted in the application
